@@ -1,2 +1,2 @@
 # PokeVault
-A cross-platform mobile app built with Flutter/React Native, optimized for both iOS and Android. Includes a modern UI, custom branding (splash screen, app icon, brand assets), and packaged as APK &amp; IPA for easy installation. Store submission support available.
+A cross-platform mobile app built with Flutter/React Native, optimized for both iOS and Android. Includes a modern UI, custom branding (splash screen, app icon, brand assets), and packaged as APK &amp; IPA for easy installation. Store submission support available. here is the live url from app store: https://play.google.com/store/apps/details?id=com.shopgate.android.app&pcampaignid=web_share
